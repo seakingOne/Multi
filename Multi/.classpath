@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_121]"/>
+	<classpathentry kind="lib" path="lib/junit-4.12.jar" sourcepath="/var/folders/xg/hm7tj5xn7pz7fmjh4rn0pkfm0000gn/T/.org.sf.feeling.decompiler1521162289959/source/junit-4.12-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jedis-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool2-2.5.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/Desktop/4G/maven/Asiainfo-maven/repository/com/alibaba/fastjson/1.2.39/fastjson-1.2.39.jar"/>
+	<classpathentry kind="lib" path="lib/preconditions-0.2.0.jar" sourcepath="/var/folders/xg/hm7tj5xn7pz7fmjh4rn0pkfm0000gn/T/.org.sf.feeling.decompiler1522807407319/source/preconditions-0.2.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
